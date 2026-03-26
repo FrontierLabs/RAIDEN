@@ -8,7 +8,7 @@ While Role-Playing Conversational Agents (RPCAs) have gained significant promine
 **RAIDEN** is a comprehensive benchmark designed to evaluate RPCA interactions through measurement-driven custom dialogues. By focusing on specific response dimensions across different conversation stages, RAIDEN reduces subjectivity and provides a more objective assessment of role-playing capabilities.
 
 <p align="center">
-  <img src="./assets/overview.pdf" alt="RAIDEN Overview" width="800">
+  <img src="./assets/overview.png" alt="RAIDEN Overview" width="800">
 </p>
 
 ## Key Features
